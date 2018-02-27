@@ -1,0 +1,22 @@
+{
+  "name": "nexmo-conversation-window",
+  "version": "1.0.0",
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.",
+  "main": "core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alwell-kevin/nexmo-conversation-window.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alwell-kevin/nexmo-conversation-window/issues"
+  },
+  "homepage": "https://github.com/alwell-kevin/nexmo-conversation-window#readme",
+  "dependencies": {
+    "nexmo-conversation": "^0.1.17"
+  }
+}
